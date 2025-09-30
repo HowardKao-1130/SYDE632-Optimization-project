@@ -1,6 +1,11 @@
 # SYDE632-Optimization-project
 
-This was a course project on improving SVM performance in imbalanced dataset use cases. 
+This was a course project on improving SVM performance in imbalanced dataset use cases, taken from a private repo. 
 
-The approach was novel and manually implemented (as required), but inefficient in retrospect.
+The approach was novel and manually implemented (as required), but inefficient in retrospect. 
 
+![]()
+
+![]()
+
+![]()
